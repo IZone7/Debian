@@ -1,0 +1,16 @@
+------- "Atajos del teclado Basicos en un sistema Debian " -------
+(Es una combinacion de dos o mas teclas para ejecutar acciones)
+
+Alt + F2: Ejecutar un comando 
+Alt + Tab Cambia de Ventana o aplicaciones abiertas
+Ctrl + Shift + C: Copiar
+Ctrl + Shift + V: Pegar
+Ctrl + Alt + T: Abrir Consola
+Ctrl + Alt + D: Mostrar Escritorio
+Ctrl + L: Limpia la pantalla de la terminal
+Ctrl + U: Borra toda la línea que estás escribiendo.
+Ctrl + A: Ir al inicio de la linea
+Ctrl + E: Ir al final de la linea
+Ctrl + K: Cortar toda la linea del comando 
+Ctrl + Y: Pega toda la linea del comando
+Ctrl + R: Busca un comando
